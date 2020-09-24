@@ -1,4 +1,35 @@
 - commits:
+    - subject: >-
+        Catch more errors and reinforce JSON interprocess communication on
+        errors
+      hash: feff27b0a0cd5e8ce93564e8a8a25727bd7acffa
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+    - subject: >-
+        Don't truncate error logs (add _truncate_exc option to python sh
+        commands)
+      hash: e8727274791996fedec38fbc1dece27616a5243a
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+    - subject: Add keyword args to RetryCounter key computation. Remove unused args.
+      hash: 37315020a0428600442209e0570fb18b6fa5159b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+  version: 10.3.2
+  date: 2020-09-24T22:16:51.845Z
+- commits:
     - subject: Fix splash image file name for balenaOS >= 2.53.0 (resin -> balena)
       hash: 87e71c21a08497d126e3bcdca0aa48a542fe8f83
       body: ''
